@@ -1,0 +1,6 @@
+{
+    "cmd": ["python", "-u", "$file"],
+    "patch": ["C:/Python34/;C:/Python34/Scripts"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python"
+}

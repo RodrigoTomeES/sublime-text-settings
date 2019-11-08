@@ -1,0 +1,26 @@
+{
+  "name": "sublime-grunt",
+  "version": "1.1.0",
+  "description": "A Grunt task runner for Sublime Text",
+  "author": "Septian Dwic.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sptndc/sublime-grunt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sptndc/sublime-grunt/issues"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "grunt": "^1.0.3",
+    "grunt-eslint": "^21.0.0"
+  }
+}

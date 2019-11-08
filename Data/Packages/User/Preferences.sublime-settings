@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"font_size": 10,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"theme": "Boxy Monokai.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}

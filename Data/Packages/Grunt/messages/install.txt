@@ -1,0 +1,18 @@
+  _______.______ .__.  .__.__. .__.__________.
+ /  _____|   _  \|  |  |  |  \ |  |          |
+|  |  ___'  |_)  |  |  |  |   \|  '---.  .---'
+|  | |_  |      /|  |  |  |    '  |   |  |
+|  |___| |  |\  \'  '--'  '  |\   |   |  |
+ \_______'__| \__|\______/|__| \__|   |__|
+
+
+!!! Thanks for installing sublime-grunt !!!
+
+
+For information about this package, please see:
+
+https://github.com/sptndc/sublime-grunt
+
+For issues or feature requests, create a report that leads to:
+
+https://github.com/sptndc/sublime-grunt/issues

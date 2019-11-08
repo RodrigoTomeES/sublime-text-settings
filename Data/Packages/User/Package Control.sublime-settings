@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AlignTab",
+		"Anaconda",
+		"Autoprefixer",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Clickable URLs",
+		"ColorPicker",
+		"CSS Unminifier",
+		"Emmet",
+		"Grunt",
+		"HTML Minifier",
+		"HTML-CSS-JS Prettify",
+		"Laravel Blade Highlighter",
+		"Laravel Helper Completions",
+		"Material Theme",
+		"Monokai JSON+",
+		"Package Control",
+		"PHP Getters and Setters",
+		"Sass",
+		"SASS Build",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"Syntax Highlighting for Sass",
+		"Terminal"
+	]
+}

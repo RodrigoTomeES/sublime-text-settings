@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+.sublime-grunt.cache
+package-lock.json
+*.pyc
+*.sublime-project
+*.sublime-workspace

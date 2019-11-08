@@ -1,0 +1,15 @@
+Sublime Grunt 1.1.0
+===================
+
+* Renamed main.py to grunt.py.
+* Now, the Grunt Snippets package is included.
+* Renamed SublimeGrunt.sublime-settings to Grunt.sublime-settings.
+* Fixed if a Gruntfile list is canceled, and stop a `grunt` command.
+* Relative path support. See https://github.com/tvooo/sublime-grunt/pull/97
+
+
+Note
+====
+
+Please rename your SublimeGrunt.sublime-settings to Grunt.sublime-settings
+and if your sublime-project use SublimeGrunt please rename to Grunt too.
