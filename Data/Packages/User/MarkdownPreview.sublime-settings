@@ -1,0 +1,6 @@
+{
+    /*
+        Enable auto-reloaded on save. Will not work if GitHub parser or GitLab parser is used without oauth key specified.
+    */
+    "enable_autoreload": true,
+}
