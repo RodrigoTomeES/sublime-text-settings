@@ -14,6 +14,7 @@ List of shortcodes:
 * Open Preview: ALT+M
 
 ### Front-end
+* Autoprefixer   : CTRL+ALT+P
 * Color picker   : CTRL+SHIFT+C
 * CSS unminifier : CTRL+ALT+U
 * Prettify code  : CRTL+SHIFT+H
@@ -32,6 +33,7 @@ List of installed plugins:
 * [Emmet](https://github.com/sergeche/emmet-sublime)
 * [Grunt](https://github.com/sptndc/sublime-grunt)
 * [LiveReload](https://github.com/alepez/LiveReload-sublimetext3)
+* [Live​Reload](https://github.com/alepez/LiveReload-sublimetext3)
 * [Package Control](https://packagecontrol.io/say_thanks)
 * [Side​Bar​Enhancements](https://github.com/titoBouzout/SideBarEnhancements)
 * [Sublime​Linter-json](https://github.com/SublimeLinter/SublimeLinter-json)
@@ -43,7 +45,6 @@ List of installed plugins:
 * [Anaconda](https://github.com/DamnWidget/anaconda)
 
 ### Markdown
-* [Live​Reload](https://github.com/alepez/LiveReload-sublimetext3)
 * [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing#additional-color-themes)
 * [Markdown​Preview](https://github.com/facelessuser/MarkdownPreview)
 
