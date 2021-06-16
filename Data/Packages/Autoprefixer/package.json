@@ -3,7 +3,7 @@
 	"dependencies": {
 		"autoprefixer": "^9.6.5",
 		"get-stdin": "^7.0.0",
-		"postcss": "^7.0.18",
+		"postcss": "^7.0.36",
 		"postcss-safe-parser": "^4.0.1",
 		"postcss-scss": "^2.0.0"
 	}
